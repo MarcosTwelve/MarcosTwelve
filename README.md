@@ -2,12 +2,11 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=marcostwelve&color=yellow" alt="Profile views" /> </p>
 
 - 🔥  Stundent of Web Developer & Desktop Developer
-
+- 😄 Pronouns: ele/dele - he/her
+- 🌱 I’m currently learning ReactJS
 - 🔭 I’m currently student of Systems Information
-
 - 💬 Ask me about **JavaScript, HTML, CSS, SQL, ReactJS, Node.JS**
 
-- ⚡ Fun fact **Oneye 😜**
 
 
 <br><br>
