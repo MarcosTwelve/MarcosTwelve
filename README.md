@@ -9,7 +9,6 @@
 
 - ⚡ Fun fact **Oneye 😜**
 
-<!--
 
 <br><br>
 
@@ -35,7 +34,6 @@
 <img width="530em" src="https://github-readme-stats.vercel.app/api?username=marcostwelve&show_icons=true&theme=vision-friendly-dark" alt="mrcostwelve's stats"/>
 <img width="530em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=marcostwelve&layout=compact&theme=vision-friendly-dark" alt="marcostwelve's most languages"/>
 </p>
--->
 
 <br><br>
 
