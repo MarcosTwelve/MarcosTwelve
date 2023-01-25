@@ -41,9 +41,9 @@
 ## Contact
 
 <div> 
- <a href="Marcos Marcelino#8204" target="_blank"><img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" target="_blank"></a> 
+ <a href="https://discord.com/channels/@Marcos%20Marcelino#8204" target="_blank"><img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" target="_blank"></a> 
   <a href="https://www.linkedin.com/in/mauricio-marcelino-388a4323a/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
-  <a href="https://codepen.io/Marcos-Twelve" target="_blank"><img src="https://img.shields.io/badge/Codepen-7289DA?style=for-the-badge&logo=codepen&logoColor=white" target="_blank"></a> 
+  <a href="https://codepen.io/Marcos-Twelve" target="_blank"><img src="https://img.shields.io/badge/Codepen-7289DA?style=for-the-badge&logo=codepen&logoColor=white" target="_blank"></a>
 </div>
 
 
