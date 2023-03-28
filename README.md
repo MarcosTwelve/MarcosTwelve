@@ -1,11 +1,11 @@
 <h1 align="left">Hi <img src="https://raw.githubusercontent.com/kaueMarques/kaueMarques/master/hi.gif" height="30px">, I'm Maurício Marcos</h1>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=marcostwelve&color=yellow" alt="Profile views" /> </p>
 
-- 🔥  Stundent of Web Developer & Desktop Developer
+- 🔥  Stundent of Web Developer & Android Developer
 - 😄 Pronouns: ele/dele - he/her
-- 🌱 I’m currently learning ReactJS
+- 🌱 I’m currently learning Kotlin Android Studio
 - 🔭 I’m currently student of Systems Information
-- 💬 Ask me about **JavaScript, HTML, CSS, SQL, ReactJS, Node.JS, C#**
+- 💬 Ask me about **JavaScript, HTML, CSS, SQL, ReactJS, Node.JS, C#, Kotlin**
 
 
 
