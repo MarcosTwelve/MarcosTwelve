@@ -6,19 +6,18 @@
 - 🌱 I’m currently learning Kotlin Android Studio
 - 🔭 I’m currently student of Systems Information
 - 💬 Ask me about **JavaScript, HTML, CSS, SQL, ReactJS, Node.JS, C#, Kotlin**
+- 🧠 Learning React Native
 
 
 
 <br><br>
-
-## ⚙️ &nbsp;GitHub Analytics
 
 <div>
-<img width="530em" src="https://github-readme-stats.vercel.app/api?username=marcostwelve&show_icons=true&theme=vision-friendly-dark" alt="mrcostwelve's stats"/>
-<img width="530em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=marcostwelve&layout=compact&theme=vision-friendly-dark" alt="marcostwelve's most languages"/>
+  <p align="center">
+      Olá! Me chamo Maurício Marcos, sou estudante de Sistemas de Informação na Universidade Nove de Julho. Atualmente estou no 5º semestre.
+      Estou aprimorando os meus estudos em programação. Sempre aberto a compartilhar conhecimentos e evoluir junto a comunidade.
+  </p>
 </div>
-
-<br><br>
 
 ## 🛠 &nbsp;Tech Stack
 
@@ -32,11 +31,20 @@
   <img align="center" alt="Marcos-Csharp" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg">
   <img align="center" alt="Marcos-MySQL" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kotlin/kotlin-original-wordmark.svg">
   <img align="center" alt="Marcos-MySQL" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original-wordmark.svg">
+  <img align="center" alt="Marcos-MySQL" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-plain.svg">
 </div>
 
 <br><br>
 
 
+## ⚙️ &nbsp;GitHub Analytics
+
+<div>
+<img width="530em" src="https://github-readme-stats.vercel.app/api?username=marcostwelve&show_icons=true&theme=vision-friendly-dark" alt="mrcostwelve's stats"/>
+<img width="530em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=marcostwelve&layout=compact&theme=vision-friendly-dark" alt="marcostwelve's most languages"/>
+</div>
+
+<br><br>
 
 ## Contact
 
