@@ -3,10 +3,9 @@
 
 - 🔥  Stundent of Web Developer & Android Developer
 - 😄 Pronouns: ele/dele - he/her
-- 🌱 I’m currently learning Kotlin Android Studio
+- 🌱 I’m currently learning React Native
 - 🔭 I’m currently student of Systems Information
 - 💬 Ask me about **JavaScript, HTML, CSS, SQL, ReactJS, Node.JS, C#, Kotlin**
-- 🧠 Learning React Native
 
 
 
