@@ -5,7 +5,7 @@
 - 😄 Pronouns: ele/dele - he/her
 - 🌱 I’m currently learning React Native
 - 🔭 I’m currently student of Systems Information
-- 💬 Ask me about **JavaScript, HTML, CSS, SQL, ReactJS, Node.JS, C#, Kotlin**
+- 💬 Ask me about **JavaScript, HTML, CSS, SQL, ReactJS, Node.JS, C#**
 
 
 
