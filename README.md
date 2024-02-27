@@ -4,7 +4,6 @@
   Olá! Eu sou Marcos, seja bem-vindo(a) ao meu perfil! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
 </h4>
 
-<p align="center"> <img src="https://komarev.com/ghpvc/?username=marcostwelve&color=yellow" alt="Profile views" /> </p>
 <div align="center">
   - 🔥  Stundent of Web Developer & Android Developer <br>
   - 😄 Pronouns: ele/dele - he/her <br>
