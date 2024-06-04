@@ -5,11 +5,11 @@
 </h4>
 
 <div align="center">
-  - 🔥  Stundent of Web Developer & Android Developer <br>
+  - 🔥  Stundent of full-Stack developer <br>
   - 😄 Pronouns: ele/dele - he/her <br>
-  - 🌱 I’m currently learning React and C# <br>
+  - 🌱 I’m currently learning Angular and C# <br>
   - 🔭 I’m currently student of Systems Information <br>
-  - 💬 Ask me about JavaScript, HTML, CSS, SQL, ReactJS, Node.JS, C#, Java <br>
+  - 💬 Ask me about  HTML, CSS, SQL, C#, JavaScript,  Angular, React, Node <br>
   
 </div>
 <hr>
